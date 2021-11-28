@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "756907752915",
+    "firebase_url": "https://blogapp-294f5.firebaseio.com",
+    "project_id": "blogapp-294f5",
+    "storage_bucket": "blogapp-294f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756907752915:android:735f6b1daeb2b41e2d0326",
+        "android_client_info": {
+          "package_name": "com.example.innovest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756907752915-78fh3e4b8fltslhonso8474edcqrr4dk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ0NMMxRuzT0NbfbvWbQdn43vr6EOcd8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756907752915-78fh3e4b8fltslhonso8474edcqrr4dk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756907752915:android:d2649281167628f5",
+        "android_client_info": {
+          "package_name": "com.example.suwilanji.communityblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756907752915-78fh3e4b8fltslhonso8474edcqrr4dk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ0NMMxRuzT0NbfbvWbQdn43vr6EOcd8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756907752915-78fh3e4b8fltslhonso8474edcqrr4dk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
