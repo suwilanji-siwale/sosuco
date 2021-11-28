@@ -1,4 +1,4 @@
-# innovest
+# SoSuCo
 
 A new Flutter project.
 
